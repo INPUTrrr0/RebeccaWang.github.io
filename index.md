@@ -1,4 +1,12 @@
-## Welcome to GitHub Pages
+## Hi! Welcome to My Pages
+
+This is a page about the code side of me. 
+A few things first. I use my repository as a pin-board/collection/bookmark. I fork a lot of other people's cool stuff to remind me what kind of resources I have. For everything that is forked, I will put `[*Forked*]` in the title or the description so you know. Hope this explanation make sense :) Sorry if it is weird, I just like to have everything in the same place so I can find them easily. 
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/INPUTrrr0/RebeccaWang.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
