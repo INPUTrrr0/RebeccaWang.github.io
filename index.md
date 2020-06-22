@@ -3,6 +3,17 @@
 This is a page about the code side of me. 
 A few things first. I use my repository as a pin-board/collection/bookmark. I fork a lot of other people's cool stuff to remind me what kind of resources I have. For everything that is forked, I will put `[*Forked*]` in the title or the description so you know. Hope this explanation make sense :) Sorry if it is weird, I just like to have everything in the same place so I can find them easily. 
 
+### Some Python data science stuff 
+
+
+
+Cool stuff I found on the way:
+1. [An intro to data science in python, with pandas and scikit learn, using linear regression](https://becominghuman.ai/linear-regression-in-python-with-pandas-scikit-learn-72574a2ec1a5)
+
+
+
+
+
 
 
 
